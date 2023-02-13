@@ -2,7 +2,6 @@ package com.example.springproject.entities;
 
 import com.example.springproject.entities.PK.OrderItemPK;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import jakarta.persistence.Column;
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
